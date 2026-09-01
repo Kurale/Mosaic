@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Математическая раскраска</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ===== Экран «Главное меню» ===== -->
+  <section id="menu-screen" class="screen active">
+    <h1 class="app-title">🎨 Математическая раскраска</h1>
+    <p class="app-subtitle">Выбери задание, реши пример и раскрась картинку!</p>
+    <!-- Сетка карточек уровней генерируется из JS -->
+    <div id="menu-grid" class="menu-grid"></div>
+  </section>
+
+  <!-- ===== Экран «Раскраска» ===== -->
+  <section id="game-screen" class="screen">
+    <header class="game-header">
+      <button id="btn-back" class="btn btn-back">⬅ В меню</button>
+      <h2 id="level-title" class="level-title"></h2>
+      <!-- Прогресс прохождения уровня -->
+      <div class="progress-wrap">
+        <div class="progress-bar"><div id="progress-fill"></div></div>
+        <span id="progress-text">0 / 0</span>
+      </div>
+    </header>
+
+    <main class="game-layout">
+      <!-- Слева: интерактивный SVG (вставляется динамически) -->
+      <div id="svg-container" class="svg-container"></div>
+      <!-- Справа: палитра цветов с примерами -->
+      <aside id="palette" class="palette"></aside>
+    </main>
+  </section>
+
+  <!-- ===== Модальное окно победы ===== -->
+  <div id="win-modal" class="modal-overlay hidden">
+    <div class="modal">
+      <div class="modal-emoji">🎉</div>
+      <h3>Молодец!</h3>
+      <p>Ты раскрасил картинку без ошибок!</p>
+      <div class="modal-buttons">
+        <button id="btn-next" class="btn btn-primary">Следующий уровень ➡</button>
+        <button id="btn-menu" class="btn btn-secondary">🏠 В меню</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

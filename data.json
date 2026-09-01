@@ -1,0 +1,1541 @@
+[
+  {
+    "id": "babochka",
+    "title": "Бабочка",
+    "emoji": "🦋",
+    "svgUrl": "assets/babochka_processed.svg",
+    "palette": [
+      {
+        "color": "#1F365F",
+        "answer": 7,
+        "expression": "21 : 3"
+      },
+      {
+        "color": "#F36BEA",
+        "answer": 3,
+        "expression": "24 : 8"
+      },
+      {
+        "color": "#5F0D2E",
+        "answer": 6,
+        "expression": "36 : 6"
+      },
+      {
+        "color": "#A7B0FD",
+        "answer": 8,
+        "expression": "48 : 6"
+      },
+      {
+        "color": "#DB1F6A",
+        "answer": 4,
+        "expression": "36 : 9"
+      }
+    ],
+    "colorMapping": {
+      "seg_1": "#1F365F",
+      "seg_2": "#1F365F",
+      "seg_3": "#F36BEA",
+      "seg_4": "#F36BEA",
+      "seg_5": "#5F0D2E",
+      "seg_6": "#A7B0FD",
+      "seg_7": "#A7B0FD",
+      "seg_8": "#DB1F6A",
+      "seg_9": "#DB1F6A",
+      "seg_10": "#DB1F6A"
+    },
+    "labelPositions": {
+      "seg_1": [
+        24.5,
+        8.5
+      ],
+      "seg_2": [
+        8.5,
+        24.5
+      ],
+      "seg_3": [
+        21.5,
+        10.5
+      ],
+      "seg_4": [
+        10.5,
+        21.5
+      ],
+      "seg_5": [
+        18.5,
+        18.5
+      ],
+      "seg_6": [
+        21.5,
+        15.5
+      ],
+      "seg_7": [
+        15.5,
+        21.5
+      ],
+      "seg_8": [
+        16.5,
+        17.5
+      ],
+      "seg_9": [
+        18.5,
+        19.5
+      ],
+      "seg_10": [
+        20.5,
+        22.5
+      ]
+    },
+    "unit": 1
+  },
+  {
+    "id": "petux",
+    "title": "Петушок",
+    "emoji": "🐓",
+    "svgUrl": "assets/petux_processed.svg",
+    "palette": [
+      {
+        "color": "#AD4647",
+        "answer": 21,
+        "expression": "3 × 7"
+      },
+      {
+        "color": "#F45A52",
+        "answer": 24,
+        "expression": "3 × 8"
+      },
+      {
+        "color": "#BE632E",
+        "answer": 36,
+        "expression": "6 × 6"
+      },
+      {
+        "color": "#2F4052",
+        "answer": 48,
+        "expression": "6 × 8"
+      },
+      {
+        "color": "#3EA7BA",
+        "answer": 49,
+        "expression": "7 × 7"
+      },
+      {
+        "color": "#E6BA23",
+        "answer": 64,
+        "expression": "8 × 8"
+      },
+      {
+        "color": "#3AA079",
+        "answer": 54,
+        "expression": "9 × 6"
+      },
+      {
+        "color": "#207F67",
+        "answer": 42,
+        "expression": "6 × 7"
+      },
+      {
+        "color": "#3C638A",
+        "answer": 56,
+        "expression": "7 × 8"
+      },
+      {
+        "color": "#313D39",
+        "answer": 72,
+        "expression": "8 × 9"
+      }
+    ],
+    "colorMapping": {
+      "seg_1": "#AD4647",
+      "seg_2": "#AD4647",
+      "seg_3": "#AD4647",
+      "seg_4": "#AD4647",
+      "seg_5": "#AD4647",
+      "seg_6": "#AD4647",
+      "seg_7": "#F45A52",
+      "seg_8": "#F45A52",
+      "seg_9": "#BE632E",
+      "seg_10": "#BE632E",
+      "seg_11": "#BE632E",
+      "seg_12": "#2F4052",
+      "seg_13": "#2F4052",
+      "seg_14": "#2F4052",
+      "seg_15": "#2F4052",
+      "seg_16": "#2F4052",
+      "seg_17": "#2F4052",
+      "seg_18": "#3EA7BA",
+      "seg_19": "#3EA7BA",
+      "seg_20": "#E6BA23",
+      "seg_21": "#E6BA23",
+      "seg_22": "#E6BA23",
+      "seg_23": "#E6BA23",
+      "seg_24": "#3AA079",
+      "seg_25": "#207F67",
+      "seg_26": "#207F67",
+      "seg_27": "#207F67",
+      "seg_28": "#207F67",
+      "seg_29": "#207F67",
+      "seg_30": "#3C638A",
+      "seg_31": "#3C638A",
+      "seg_32": "#313D39",
+      "seg_33": "#313D39",
+      "seg_34": "#313D39"
+    },
+    "labelPositions": {
+      "seg_1": [
+        18.5,
+        6.5
+      ],
+      "seg_2": [
+        20.5,
+        9.5
+      ],
+      "seg_3": [
+        24.5,
+        8.5
+      ],
+      "seg_4": [
+        24.5,
+        15.5
+      ],
+      "seg_5": [
+        19.5,
+        16.5
+      ],
+      "seg_6": [
+        14.5,
+        22.5
+      ],
+      "seg_7": [
+        21.5,
+        6.5
+      ],
+      "seg_8": [
+        24.5,
+        13.5
+      ],
+      "seg_9": [
+        21.5,
+        11.5
+      ],
+      "seg_10": [
+        19.5,
+        14.5
+      ],
+      "seg_11": [
+        14.5,
+        20.5
+      ],
+      "seg_12": [
+        23.5,
+        10.5
+      ],
+      "seg_13": [
+        21.5,
+        11.5
+      ],
+      "seg_14": [
+        24.5,
+        12.5
+      ],
+      "seg_15": [
+        19.5,
+        20.5
+      ],
+      "seg_16": [
+        11.5,
+        20.5
+      ],
+      "seg_17": [
+        7.5,
+        21.5
+      ],
+      "seg_18": [
+        21.5,
+        12.5
+      ],
+      "seg_19": [
+        22.5,
+        19.5
+      ],
+      "seg_20": [
+        23.5,
+        11.5
+      ],
+      "seg_21": [
+        23.5,
+        16.5
+      ],
+      "seg_22": [
+        16.5,
+        19.5
+      ],
+      "seg_23": [
+        19.5,
+        26.5
+      ],
+      "seg_24": [
+        9.5,
+        15.5
+      ],
+      "seg_25": [
+        6.5,
+        13.5
+      ],
+      "seg_26": [
+        14.5,
+        14.5
+      ],
+      "seg_27": [
+        9.5,
+        18.5
+      ],
+      "seg_28": [
+        5.5,
+        16.5
+      ],
+      "seg_29": [
+        6.5,
+        22.5
+      ],
+      "seg_30": [
+        23.5,
+        19.5
+      ],
+      "seg_31": [
+        10.5,
+        21.5
+      ],
+      "seg_32": [
+        15.5,
+        28.5
+      ],
+      "seg_33": [
+        19.5,
+        28.5
+      ],
+      "seg_34": [
+        23.5,
+        28.5
+      ]
+    },
+    "unit": 1
+  },
+  {
+    "id": "ribka",
+    "title": "Рыбка",
+    "emoji": "🐠",
+    "svgUrl": "assets/ribka_processed.svg",
+    "palette": [
+      {
+        "color": "#44B9EE",
+        "answer": 3,
+        "expression": "21 : 7"
+      },
+      {
+        "color": "#E1F2FC",
+        "answer": 8,
+        "expression": "24 : 3"
+      },
+      {
+        "color": "#253050",
+        "answer": 4,
+        "expression": "36 : 9"
+      },
+      {
+        "color": "#FFAF3E",
+        "answer": 6,
+        "expression": "54 : 9"
+      },
+      {
+        "color": "#E76E1F",
+        "answer": 7,
+        "expression": "56 : 8"
+      }
+    ],
+    "colorMapping": {
+      "seg_1": "#44B9EE",
+      "seg_2": "#44B9EE",
+      "seg_3": "#44B9EE",
+      "seg_4": "#44B9EE",
+      "seg_5": "#44B9EE",
+      "seg_6": "#44B9EE",
+      "seg_7": "#44B9EE",
+      "seg_8": "#44B9EE",
+      "seg_9": "#44B9EE",
+      "seg_10": "#E1F2FC",
+      "seg_11": "#E1F2FC",
+      "seg_12": "#E1F2FC",
+      "seg_13": "#E1F2FC",
+      "seg_14": "#253050",
+      "seg_15": "#253050",
+      "seg_16": "#253050",
+      "seg_17": "#FFAF3E",
+      "seg_18": "#FFAF3E",
+      "seg_19": "#FFAF3E",
+      "seg_20": "#FFAF3E",
+      "seg_21": "#FFAF3E",
+      "seg_22": "#FFAF3E",
+      "seg_23": "#E76E1F",
+      "seg_24": "#E76E1F",
+      "seg_25": "#E76E1F",
+      "seg_26": "#E76E1F",
+      "seg_27": "#E76E1F"
+    },
+    "labelPositions": {
+      "seg_1": [
+        8.5,
+        6.5
+      ],
+      "seg_2": [
+        19.5,
+        8.5
+      ],
+      "seg_3": [
+        24.5,
+        10.5
+      ],
+      "seg_4": [
+        5.5,
+        12.5
+      ],
+      "seg_5": [
+        26.5,
+        20.5
+      ],
+      "seg_6": [
+        21.5,
+        22.5
+      ],
+      "seg_7": [
+        10.5,
+        25.5
+      ],
+      "seg_8": [
+        17.5,
+        24.5
+      ],
+      "seg_9": [
+        25.5,
+        27.5
+      ],
+      "seg_10": [
+        8.5,
+        6.5
+      ],
+      "seg_11": [
+        24.5,
+        10.5
+      ],
+      "seg_12": [
+        21.5,
+        22.5
+      ],
+      "seg_13": [
+        10.5,
+        25.5
+      ],
+      "seg_14": [
+        15.5,
+        15.5
+      ],
+      "seg_15": [
+        12.5,
+        16.5
+      ],
+      "seg_16": [
+        19.5,
+        16.5
+      ],
+      "seg_17": [
+        18.5,
+        12.5
+      ],
+      "seg_18": [
+        9.5,
+        14.5
+      ],
+      "seg_19": [
+        14.5,
+        16.5
+      ],
+      "seg_20": [
+        17.5,
+        16.5
+      ],
+      "seg_21": [
+        22.5,
+        16.5
+      ],
+      "seg_22": [
+        9.5,
+        18.5
+      ],
+      "seg_23": [
+        18.5,
+        13.5
+      ],
+      "seg_24": [
+        13.5,
+        15.5
+      ],
+      "seg_25": [
+        8.5,
+        17.5
+      ],
+      "seg_26": [
+        21.5,
+        17.5
+      ],
+      "seg_27": [
+        15.5,
+        19.5
+      ]
+    },
+    "unit": 1
+  },
+  {
+    "id": "cotLimon",
+    "title": "Кот-лимон",
+    "emoji": "🐱",
+    "svgUrl": "assets/cotLimon_processed.svg",
+    "palette": [
+      {
+        "color": "#88362B",
+        "answer": 21,
+        "expression": "3 × 7"
+      },
+      {
+        "color": "#F4B589",
+        "answer": 24,
+        "expression": "3 × 8"
+      },
+      {
+        "color": "#EC783B",
+        "answer": 36,
+        "expression": "6 × 6"
+      },
+      {
+        "color": "#00AA4A",
+        "answer": 48,
+        "expression": "6 × 8"
+      },
+      {
+        "color": "#FEF78D",
+        "answer": 49,
+        "expression": "7 × 7"
+      },
+      {
+        "color": "#B1E382",
+        "answer": 64,
+        "expression": "8 × 8"
+      },
+      {
+        "color": "#6ABE0E",
+        "answer": 72,
+        "expression": "8 × 9"
+      }
+    ],
+    "colorMapping": {
+      "seg_1": "#88362B",
+      "seg_2": "#88362B",
+      "seg_3": "#88362B",
+      "seg_4": "#F4B589",
+      "seg_5": "#F4B589",
+      "seg_6": "#EC783B",
+      "seg_7": "#EC783B",
+      "seg_8": "#EC783B",
+      "seg_9": "#EC783B",
+      "seg_10": "#EC783B",
+      "seg_11": "#EC783B",
+      "seg_12": "#00AA4A",
+      "seg_13": "#00AA4A",
+      "seg_14": "#FEF78D",
+      "seg_15": "#FEF78D",
+      "seg_16": "#FEF78D",
+      "seg_17": "#B1E382",
+      "seg_18": "#B1E382",
+      "seg_19": "#B1E382",
+      "seg_20": "#B1E382",
+      "seg_21": "#B1E382",
+      "seg_22": "#B1E382",
+      "seg_23": "#6ABE0E",
+      "seg_24": "#6ABE0E",
+      "seg_25": "#6ABE0E",
+      "seg_26": "#6ABE0E",
+      "seg_27": "#6ABE0E"
+    },
+    "labelPositions": {
+      "seg_1": [
+        15.5,
+        12.5
+      ],
+      "seg_2": [
+        18.5,
+        12.5
+      ],
+      "seg_3": [
+        23.5,
+        12.5
+      ],
+      "seg_4": [
+        21.5,
+        9.5
+      ],
+      "seg_5": [
+        11.5,
+        12.5
+      ],
+      "seg_6": [
+        13.5,
+        9.5
+      ],
+      "seg_7": [
+        17.5,
+        8.5
+      ],
+      "seg_8": [
+        21.5,
+        8.5
+      ],
+      "seg_9": [
+        24.5,
+        8.5
+      ],
+      "seg_10": [
+        8.5,
+        9.5
+      ],
+      "seg_11": [
+        8.5,
+        16.5
+      ],
+      "seg_12": [
+        17.5,
+        21.5
+      ],
+      "seg_13": [
+        13.5,
+        14.5
+      ],
+      "seg_14": [
+        16.5,
+        21.5
+      ],
+      "seg_15": [
+        20.5,
+        18.5
+      ],
+      "seg_16": [
+        11.5,
+        19.5
+      ],
+      "seg_17": [
+        6.5,
+        15.5
+      ],
+      "seg_18": [
+        13.5,
+        15.5
+      ],
+      "seg_19": [
+        20.5,
+        16.5
+      ],
+      "seg_20": [
+        10.5,
+        18.5
+      ],
+      "seg_21": [
+        13.5,
+        19.5
+      ],
+      "seg_22": [
+        8.5,
+        21.5
+      ],
+      "seg_23": [
+        23.5,
+        17.5
+      ],
+      "seg_24": [
+        6.5,
+        17.5
+      ],
+      "seg_25": [
+        12.5,
+        20.5
+      ],
+      "seg_26": [
+        7.5,
+        20.5
+      ],
+      "seg_27": [
+        18.5,
+        21.5
+      ]
+    },
+    "unit": 1
+  },
+  {
+    "id": "level5",
+    "title": "Цыпа",
+    "emoji": "🐥",
+    "svgUrl": "assets/Tsipa_processed.svg",
+    "palette": [
+      {
+        "color": "#FDF2EC",
+        "answer": 3,
+        "expression": "24 : 8"
+      },
+      {
+        "color": "#FFF25E",
+        "answer": 9,
+        "expression": "36 : 4"
+      },
+      {
+        "color": "#BC8952",
+        "answer": 6,
+        "expression": "42 : 7"
+      },
+      {
+        "color": "#FF8D4C",
+        "answer": 7,
+        "expression": "49 : 7"
+      },
+      {
+        "color": "#888387",
+        "answer": 8,
+        "expression": "64 : 8"
+      }
+    ],
+    "colorMapping": {
+      "seg_1": "#FDF2EC",
+      "seg_2": "#FDF2EC",
+      "seg_3": "#FDF2EC",
+      "seg_4": "#FFF25E",
+      "seg_5": "#FFF25E",
+      "seg_6": "#FFF25E",
+      "seg_7": "#FFF25E",
+      "seg_8": "#FFF25E",
+      "seg_9": "#FFF25E",
+      "seg_10": "#BC8952",
+      "seg_11": "#BC8952",
+      "seg_12": "#BC8952",
+      "seg_13": "#FF8D4C",
+      "seg_14": "#FF8D4C",
+      "seg_15": "#FF8D4C",
+      "seg_16": "#888387",
+      "seg_17": "#888387"
+    },
+    "labelPositions": {
+      "seg_1": [
+        160,
+        28
+      ],
+      "seg_2": [
+        300,
+        110
+      ],
+      "seg_3": [
+        160,
+        156
+      ],
+      "seg_4": [
+        160,
+        87
+      ],
+      "seg_5": [
+        90,
+        150
+      ],
+      "seg_6": [
+        130,
+        130
+      ],
+      "seg_7": [
+        190,
+        130
+      ],
+      "seg_8": [
+        230,
+        150
+      ],
+      "seg_9": [
+        160,
+        190
+      ],
+      "seg_10": [
+        20,
+        100
+      ],
+      "seg_11": [
+        50,
+        130
+      ],
+      "seg_12": [
+        70,
+        150
+      ],
+      "seg_13": [
+        160,
+        130
+      ],
+      "seg_14": [
+        130,
+        210
+      ],
+      "seg_15": [
+        190,
+        210
+      ],
+      "seg_16": [
+        300,
+        130
+      ],
+      "seg_17": [
+        250,
+        150
+      ]
+    },
+    "unit": 20
+  },
+  {
+    "id": "cotik",
+    "title": "Котик-мозаика",
+    "emoji": "🐱",
+    "svgUrl": "assets/cotik_mosaika_processed.svg",
+    "unit": 1,
+    "palette": [
+      {
+        "color": "#866458",
+        "answer": 24,
+        "expression": "3 × 8"
+      },
+      {
+        "color": "#5CF1E2",
+        "answer": 49,
+        "expression": "7 × 7"
+      },
+      {
+        "color": "#54AFE4",
+        "answer": 36,
+        "expression": "4 × 9"
+      },
+      {
+        "color": "#BDA5A1",
+        "answer": 48,
+        "expression": "6 × 8"
+      },
+      {
+        "color": "#3E2918",
+        "answer": 54,
+        "expression": "9 × 6"
+      },
+      {
+        "color": "#E3EE16",
+        "answer": 42,
+        "expression": "6 × 7"
+      },
+      {
+        "color": "#F8CBD2",
+        "answer": 56,
+        "expression": "7 × 8"
+      },
+      {
+        "color": "#FCD68B",
+        "answer": 72,
+        "expression": "8 × 9"
+      }
+    ],
+    "colorMapping": {
+      "seg_1": "#866458",
+      "seg_2": "#5CF1E2",
+      "seg_3": "#54AFE4",
+      "seg_4": "#BDA5A1",
+      "seg_5": "#BDA5A1",
+      "seg_6": "#3E2918",
+      "seg_7": "#3E2918",
+      "seg_8": "#E3EE16",
+      "seg_9": "#F8CBD2",
+      "seg_10": "#F8CBD2",
+      "seg_11": "#FCD68B",
+      "seg_12": "#FCD68B"
+    },
+    "labelPositions": {
+      "seg_1": [
+        14.5,
+        16.5
+      ],
+      "seg_2": [
+        9.5,
+        12.5
+      ],
+      "seg_3": [
+        9.5,
+        11.5
+      ],
+      "seg_4": [
+        14.5,
+        14.5
+      ],
+      "seg_5": [
+        23.5,
+        16.5
+      ],
+      "seg_6": [
+        18.5,
+        15.5
+      ],
+      "seg_7": [
+        13.5,
+        16.5
+      ],
+      "seg_8": [
+        16.5,
+        16.5
+      ],
+      "seg_9": [
+        19.5,
+        17.5
+      ],
+      "seg_10": [
+        12.5,
+        18.5
+      ],
+      "seg_11": [
+        20.5,
+        20.5
+      ],
+      "seg_12": [
+        14.5,
+        23.5
+      ]
+    }
+  },
+  {
+    "id": "jiraf",
+    "title": "Жираф",
+    "emoji": "🦒",
+    "gen": {
+      "segments": 22,
+      "unit": 1,
+      "palette": [
+        {
+          "color": "#AECCE4",
+          "answer": 3,
+          "expression": "21 : 7"
+        },
+        {
+          "color": "#C2563C",
+          "answer": 8,
+          "expression": "24 : 3"
+        },
+        {
+          "color": "#FDCD2D",
+          "answer": 4,
+          "expression": "36 : 9"
+        },
+        {
+          "color": "#FD8B0F",
+          "answer": 6,
+          "expression": "48 : 8"
+        },
+        {
+          "color": "#63B330",
+          "answer": 7,
+          "expression": "49 : 7"
+        },
+        {
+          "color": "#BF573C",
+          "answer": 9,
+          "expression": "72 : 8"
+        }
+      ],
+      "colorMapping": {
+        "seg_1": "#AECCE4",
+        "seg_2": "#C2563C",
+        "seg_3": "#C2563C",
+        "seg_4": "#FDCD2D",
+        "seg_5": "#FDCD2D",
+        "seg_6": "#FD8B0F",
+        "seg_7": "#FD8B0F",
+        "seg_8": "#FD8B0F",
+        "seg_9": "#63B330",
+        "seg_10": "#63B330",
+        "seg_11": "#63B330",
+        "seg_12": "#BF573C",
+        "seg_13": "#BF573C",
+        "seg_14": "#BF573C",
+        "seg_15": "#BF573C",
+        "seg_16": "#BF573C",
+        "seg_17": "#BF573C",
+        "seg_18": "#BF573C",
+        "seg_19": "#BF573C",
+        "seg_20": "#BF573C",
+        "seg_21": "#BF573C",
+        "seg_22": "#BF573C"
+      },
+      "labelPositions": {
+        "seg_1": [
+          17.5,
+          15.5
+        ],
+        "seg_2": [
+          15.5,
+          3.5
+        ],
+        "seg_3": [
+          21.5,
+          3.5
+        ],
+        "seg_4": [
+          18.5,
+          8.5
+        ],
+        "seg_5": [
+          18.5,
+          26.5
+        ],
+        "seg_6": [
+          11.5,
+          9.5
+        ],
+        "seg_7": [
+          25.5,
+          9.5
+        ],
+        "seg_8": [
+          18.5,
+          16.5
+        ],
+        "seg_9": [
+          6.5,
+          17.5
+        ],
+        "seg_10": [
+          7.5,
+          28.5
+        ],
+        "seg_11": [
+          27.5,
+          28.5
+        ],
+        "seg_12": [
+          15.5,
+          11.5
+        ],
+        "seg_13": [
+          21.5,
+          11.5
+        ],
+        "seg_14": [
+          15.5,
+          15.5
+        ],
+        "seg_15": [
+          21.5,
+          15.5
+        ],
+        "seg_16": [
+          17.5,
+          21.5
+        ],
+        "seg_17": [
+          5.5,
+          24.5
+        ],
+        "seg_18": [
+          15.5,
+          25.5
+        ],
+        "seg_19": [
+          19.5,
+          25.5
+        ],
+        "seg_20": [
+          23.5,
+          28.5
+        ],
+        "seg_21": [
+          14.5,
+          29.5
+        ],
+        "seg_22": [
+          19.5,
+          29.5
+        ]
+      },
+      "svg": "<svg viewBox=\"0 0 32 32\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect id=\"seg_1\" x=\"0\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"4\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"5\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"14\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"15\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"16\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"17\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"18\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"19\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"20\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"21\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"0\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"4\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"5\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"14\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"15\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"16\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"17\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"18\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"19\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"20\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"21\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"1\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"4\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"5\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"16\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"17\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"18\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"19\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"4\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"5\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"16\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"17\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"18\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"19\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"4\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"5\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"16\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"17\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"18\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"19\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"4\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"5\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"16\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"17\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"18\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"19\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"4\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"5\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"4\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"5\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"4\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"5\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"4\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"5\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"14\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"15\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"20\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"21\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"14\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"15\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"20\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"21\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"14\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"15\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"20\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"21\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"14\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"15\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"20\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"21\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"4\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"5\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"14\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"15\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"16\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"17\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"18\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"19\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"20\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"21\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"30\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"0\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"1\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"2\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"3\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"4\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"5\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"6\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"14\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"15\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"16\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"17\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"18\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"19\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"20\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"21\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"24\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"25\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"26\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"27\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"28\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"29\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"30\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"31\" y=\"31\" width=\"1\" height=\"1\" />\n<rect id=\"seg_2\" x=\"14\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_2\" x=\"15\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_2\" x=\"14\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_2\" x=\"15\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_3\" x=\"20\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_3\" x=\"21\" y=\"2\" width=\"1\" height=\"1\" />\n<rect id=\"seg_3\" x=\"20\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_3\" x=\"21\" y=\"3\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"14\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"15\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"20\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"21\" y=\"4\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"14\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"15\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"20\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"21\" y=\"5\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"8\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"9\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"10\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"11\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"14\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"15\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"16\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"17\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"18\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"19\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"20\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"21\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"24\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"25\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"26\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"27\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"8\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"9\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"10\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"11\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"14\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"15\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"16\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"17\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"18\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"19\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"20\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"21\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"24\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"25\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"26\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"27\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"8\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"9\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"12\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"13\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"16\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"17\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"18\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"19\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"22\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"23\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"26\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"27\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"8\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"9\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"12\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"13\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"16\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"17\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"18\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"19\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"22\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"23\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"26\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"27\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"10\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"11\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"12\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"13\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"16\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"17\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"18\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"19\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"22\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"23\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"24\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"25\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"10\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"11\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"12\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"13\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"16\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"17\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"18\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"19\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"22\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"23\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"24\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"25\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"18\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"19\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"18\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"19\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"16\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"17\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"18\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"19\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"16\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"17\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"18\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"19\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"16\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"17\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"20\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"21\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"16\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"17\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"20\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"21\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"12\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"13\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"14\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"15\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"16\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"17\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"18\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"19\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"20\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"21\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"12\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"13\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"14\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"15\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"16\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"17\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"18\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"19\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"20\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"21\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"16\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"17\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"20\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"21\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"16\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"17\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"20\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"21\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_6\" x=\"10\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_6\" x=\"11\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_6\" x=\"10\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_6\" x=\"11\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"24\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"25\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"24\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"25\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"14\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"15\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"16\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"17\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"18\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"19\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"20\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"21\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"14\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"15\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"16\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"17\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"18\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"19\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"20\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"21\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"12\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"13\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"16\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"17\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"18\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"19\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"22\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"23\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"12\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"13\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"16\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"17\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"18\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"19\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"22\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"23\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"12\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"13\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"14\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"15\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"16\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"17\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"18\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"19\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"20\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"21\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"22\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"23\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"12\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"13\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"14\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"15\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"16\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"17\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"18\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"19\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"20\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"21\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"22\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"23\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"14\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"15\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"16\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"17\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"18\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"19\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"20\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"21\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"14\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"15\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"16\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"17\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"18\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"19\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"20\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"21\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"4\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"5\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"4\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"5\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"2\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"3\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"4\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"5\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"6\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"7\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"2\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"3\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"4\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"5\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"6\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"7\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"2\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"3\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"4\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"5\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"6\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"7\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"8\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"9\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"2\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"3\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"4\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"5\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"6\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"7\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"8\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"9\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"2\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"3\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"4\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"5\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"6\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"7\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"8\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"9\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"2\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"3\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"4\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"5\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"6\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"7\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"8\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"9\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"2\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"3\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"4\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"5\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"6\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"7\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"8\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"9\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"2\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"3\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"4\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"5\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"6\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"7\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"8\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"9\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"2\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"3\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"4\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"5\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"6\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"7\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"2\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"3\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"4\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"5\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"6\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"7\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"2\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"3\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"4\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"5\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"6\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"7\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"8\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"9\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"10\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"11\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"2\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"3\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"4\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"5\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"6\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"7\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"8\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"9\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"10\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"11\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"2\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"3\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"4\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"5\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"6\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"7\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"8\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"9\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"10\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"11\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"2\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"3\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"4\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"5\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"6\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"7\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"8\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"9\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"10\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"11\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"24\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"25\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"26\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"27\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"28\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"29\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"24\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"25\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"26\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"27\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"28\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"29\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"24\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"25\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"26\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"27\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"28\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"29\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"24\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"25\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"26\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"27\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"28\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"29\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_12\" x=\"14\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_12\" x=\"15\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_12\" x=\"14\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_12\" x=\"15\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_13\" x=\"20\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_13\" x=\"21\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_13\" x=\"20\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_13\" x=\"21\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_14\" x=\"14\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_14\" x=\"15\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_14\" x=\"14\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_14\" x=\"15\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_15\" x=\"20\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_15\" x=\"21\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_15\" x=\"20\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_15\" x=\"21\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_16\" x=\"16\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_16\" x=\"17\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_16\" x=\"16\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_16\" x=\"17\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_17\" x=\"4\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_17\" x=\"5\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_17\" x=\"4\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_17\" x=\"5\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_17\" x=\"4\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_17\" x=\"5\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_17\" x=\"4\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_17\" x=\"5\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_18\" x=\"14\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_18\" x=\"15\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_18\" x=\"14\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_18\" x=\"15\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_19\" x=\"18\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_19\" x=\"19\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_19\" x=\"18\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_19\" x=\"19\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_20\" x=\"22\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_20\" x=\"23\" y=\"26\" width=\"1\" height=\"1\" />\n<rect id=\"seg_20\" x=\"22\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_20\" x=\"23\" y=\"27\" width=\"1\" height=\"1\" />\n<rect id=\"seg_20\" x=\"22\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_20\" x=\"23\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_20\" x=\"22\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_20\" x=\"23\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_21\" x=\"12\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_21\" x=\"13\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_21\" x=\"14\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_21\" x=\"15\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_21\" x=\"12\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_21\" x=\"13\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_21\" x=\"14\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_21\" x=\"15\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_22\" x=\"18\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_22\" x=\"19\" y=\"28\" width=\"1\" height=\"1\" />\n<rect id=\"seg_22\" x=\"18\" y=\"29\" width=\"1\" height=\"1\" />\n<rect id=\"seg_22\" x=\"19\" y=\"29\" width=\"1\" height=\"1\" />\n</svg>"
+    },
+    "svgUrl": "assets/jiraf_processed.svg",
+    "unit": 1,
+    "palette": [
+      {
+        "color": "#AECCE4",
+        "answer": 3,
+        "expression": "21 : 7"
+      },
+      {
+        "color": "#C2563C",
+        "answer": 8,
+        "expression": "24 : 3"
+      },
+      {
+        "color": "#FDCD2D",
+        "answer": 4,
+        "expression": "36 : 9"
+      },
+      {
+        "color": "#FD8B0F",
+        "answer": 6,
+        "expression": "48 : 8"
+      },
+      {
+        "color": "#63B330",
+        "answer": 7,
+        "expression": "49 : 7"
+      },
+      {
+        "color": "#BF573C",
+        "answer": 9,
+        "expression": "72 : 8"
+      }
+    ],
+    "colorMapping": {
+      "seg_1": "#AECCE4",
+      "seg_2": "#C2563C",
+      "seg_3": "#C2563C",
+      "seg_4": "#FDCD2D",
+      "seg_5": "#FDCD2D",
+      "seg_6": "#FD8B0F",
+      "seg_7": "#FD8B0F",
+      "seg_8": "#FD8B0F",
+      "seg_9": "#63B330",
+      "seg_10": "#63B330",
+      "seg_11": "#63B330",
+      "seg_12": "#BF573C",
+      "seg_13": "#BF573C",
+      "seg_14": "#BF573C",
+      "seg_15": "#BF573C",
+      "seg_16": "#BF573C",
+      "seg_17": "#BF573C",
+      "seg_18": "#BF573C",
+      "seg_19": "#BF573C",
+      "seg_20": "#BF573C",
+      "seg_21": "#BF573C",
+      "seg_22": "#BF573C"
+    }
+  },
+  {
+    "id": "boy",
+    "title": "Мальчик",
+    "emoji": "👦",
+    "gen": {
+      "segments": 22,
+      "unit": 1,
+      "palette": [
+        {
+          "color": "#865A4B",
+          "answer": 21,
+          "expression": "3 × 7"
+        },
+        {
+          "color": "#EAB96C",
+          "answer": 24,
+          "expression": "3 × 8"
+        },
+        {
+          "color": "#CEA73B",
+          "answer": 36,
+          "expression": "6 × 6"
+        },
+        {
+          "color": "#CB1939",
+          "answer": 48,
+          "expression": "6 × 8"
+        },
+        {
+          "color": "#323139",
+          "answer": 49,
+          "expression": "7 × 7"
+        },
+        {
+          "color": "#F5B18A",
+          "answer": 64,
+          "expression": "8 × 8"
+        },
+        {
+          "color": "#FFD9B2",
+          "answer": 54,
+          "expression": "9 × 6"
+        },
+        {
+          "color": "#FE988C",
+          "answer": 42,
+          "expression": "6 × 7"
+        },
+        {
+          "color": "#F2FF42",
+          "answer": 56,
+          "expression": "7 × 8"
+        },
+        {
+          "color": "#5281DB",
+          "answer": 72,
+          "expression": "8 × 9"
+        }
+      ],
+      "colorMapping": {
+        "seg_1": "#865A4B",
+        "seg_2": "#EAB96C",
+        "seg_3": "#EAB96C",
+        "seg_4": "#EAB96C",
+        "seg_5": "#CEA73B",
+        "seg_6": "#CEA73B",
+        "seg_7": "#CB1939",
+        "seg_8": "#CB1939",
+        "seg_9": "#CB1939",
+        "seg_10": "#323139",
+        "seg_11": "#F5B18A",
+        "seg_12": "#FFD9B2",
+        "seg_13": "#FFD9B2",
+        "seg_14": "#FFD9B2",
+        "seg_15": "#FFD9B2",
+        "seg_16": "#FFD9B2",
+        "seg_17": "#FFD9B2",
+        "seg_18": "#FFD9B2",
+        "seg_19": "#FE988C",
+        "seg_20": "#FE988C",
+        "seg_21": "#F2FF42",
+        "seg_22": "#5281DB"
+      },
+      "labelPositions": {
+        "seg_1": [
+          15.5,
+          11.5
+        ],
+        "seg_2": [
+          13.5,
+          8.5
+        ],
+        "seg_3": [
+          9.5,
+          14.5
+        ],
+        "seg_4": [
+          18.5,
+          13.5
+        ],
+        "seg_5": [
+          17.5,
+          9.5
+        ],
+        "seg_6": [
+          12.5,
+          10.5
+        ],
+        "seg_7": [
+          16.5,
+          10.5
+        ],
+        "seg_8": [
+          13.5,
+          20.5
+        ],
+        "seg_9": [
+          18.5,
+          20.5
+        ],
+        "seg_10": [
+          15.5,
+          18.5
+        ],
+        "seg_11": [
+          16.5,
+          15.5
+        ],
+        "seg_12": [
+          13.5,
+          17.5
+        ],
+        "seg_13": [
+          16.5,
+          18.5
+        ],
+        "seg_14": [
+          19.5,
+          17.5
+        ],
+        "seg_15": [
+          12.5,
+          22.5
+        ],
+        "seg_16": [
+          19.5,
+          22.5
+        ],
+        "seg_17": [
+          14.5,
+          25.5
+        ],
+        "seg_18": [
+          17.5,
+          25.5
+        ],
+        "seg_19": [
+          13.5,
+          18.5
+        ],
+        "seg_20": [
+          18.5,
+          18.5
+        ],
+        "seg_21": [
+          16.5,
+          22.5
+        ],
+        "seg_22": [
+          15.5,
+          23.5
+        ]
+      },
+      "svg": "<svg viewBox=\"0 0 32 32\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect id=\"seg_1\" x=\"12\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"14\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"15\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"16\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"17\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"18\" y=\"6\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"19\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"20\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"21\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"21\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"9\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"10\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"11\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"12\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"13\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"14\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"15\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"16\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"17\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"18\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"19\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"20\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"21\" y=\"11\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"23\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"7\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"22\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"8\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_1\" x=\"21\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_2\" x=\"12\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_2\" x=\"13\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_2\" x=\"14\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_2\" x=\"15\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_2\" x=\"16\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_2\" x=\"11\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_2\" x=\"12\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_2\" x=\"10\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_3\" x=\"9\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_3\" x=\"10\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_3\" x=\"8\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_3\" x=\"8\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_3\" x=\"9\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"12\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"13\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"14\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"15\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"16\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"17\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"18\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"19\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"20\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"21\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"21\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"22\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"20\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_4\" x=\"21\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"17\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"18\" y=\"7\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"13\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"14\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"15\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"16\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"17\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"18\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"19\" y=\"8\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"19\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_5\" x=\"20\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_6\" x=\"11\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"12\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"13\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"14\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"15\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"16\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"17\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"18\" y=\"9\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"10\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"11\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"12\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"13\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"14\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"15\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"16\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"17\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"18\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"19\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_7\" x=\"20\" y=\"10\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"14\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"12\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"13\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"14\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"11\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"12\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"13\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"14\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_8\" x=\"13\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"16\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"16\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"17\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"18\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"16\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"17\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"18\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"19\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_9\" x=\"17\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"11\" y=\"12\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"9\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"10\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"11\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"12\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"13\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"14\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"15\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"16\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"17\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"18\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"19\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"20\" y=\"13\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"10\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"11\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"12\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"15\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"18\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"19\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"9\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"10\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"11\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"13\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"17\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"19\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"20\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"10\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"11\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"13\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"17\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"19\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"20\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"11\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"19\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"12\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"13\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"17\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"18\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"11\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"19\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"10\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"20\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"10\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"20\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"11\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"12\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"18\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"19\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"12\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"15\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"18\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"12\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"15\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"18\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"13\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"14\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"16\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_10\" x=\"17\" y=\"25\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"13\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"14\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"16\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"17\" y=\"14\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"12\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"14\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"15\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"16\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_11\" x=\"18\" y=\"15\" width=\"1\" height=\"1\" />\n<rect id=\"seg_12\" x=\"12\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_13\" x=\"14\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_13\" x=\"15\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_13\" x=\"16\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_13\" x=\"14\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_13\" x=\"15\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_13\" x=\"16\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_13\" x=\"15\" y=\"18\" width=\"1\" height=\"1\" />\n<rect id=\"seg_13\" x=\"15\" y=\"19\" width=\"1\" height=\"1\" />\n<rect id=\"seg_13\" x=\"15\" y=\"20\" width=\"1\" height=\"1\" />\n<rect id=\"seg_14\" x=\"18\" y=\"16\" width=\"1\" height=\"1\" />\n<rect id=\"seg_15\" x=\"11\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_15\" x=\"12\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_16\" x=\"18\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_16\" x=\"19\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_17\" x=\"13\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_17\" x=\"14\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_18\" x=\"16\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_18\" x=\"17\" y=\"24\" width=\"1\" height=\"1\" />\n<rect id=\"seg_19\" x=\"12\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_19\" x=\"13\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_20\" x=\"17\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_20\" x=\"18\" y=\"17\" width=\"1\" height=\"1\" />\n<rect id=\"seg_21\" x=\"14\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_21\" x=\"15\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_21\" x=\"16\" y=\"21\" width=\"1\" height=\"1\" />\n<rect id=\"seg_21\" x=\"17\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_21\" x=\"17\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_22\" x=\"13\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_22\" x=\"14\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_22\" x=\"15\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_22\" x=\"16\" y=\"22\" width=\"1\" height=\"1\" />\n<rect id=\"seg_22\" x=\"13\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_22\" x=\"14\" y=\"23\" width=\"1\" height=\"1\" />\n<rect id=\"seg_22\" x=\"16\" y=\"23\" width=\"1\" height=\"1\" />\n</svg>"
+    },
+    "svgUrl": "assets/boy_processed.svg",
+    "unit": 1,
+    "palette": [
+      {
+        "color": "#865A4B",
+        "answer": 21,
+        "expression": "3 × 7"
+      },
+      {
+        "color": "#EAB96C",
+        "answer": 24,
+        "expression": "3 × 8"
+      },
+      {
+        "color": "#CEA73B",
+        "answer": 36,
+        "expression": "6 × 6"
+      },
+      {
+        "color": "#CB1939",
+        "answer": 48,
+        "expression": "6 × 8"
+      },
+      {
+        "color": "#323139",
+        "answer": 49,
+        "expression": "7 × 7"
+      },
+      {
+        "color": "#F5B18A",
+        "answer": 64,
+        "expression": "8 × 8"
+      },
+      {
+        "color": "#FFD9B2",
+        "answer": 54,
+        "expression": "9 × 6"
+      },
+      {
+        "color": "#FE988C",
+        "answer": 42,
+        "expression": "6 × 7"
+      },
+      {
+        "color": "#F2FF42",
+        "answer": 56,
+        "expression": "7 × 8"
+      },
+      {
+        "color": "#5281DB",
+        "answer": 72,
+        "expression": "8 × 9"
+      }
+    ],
+    "colorMapping": {
+      "seg_1": "#865A4B",
+      "seg_2": "#EAB96C",
+      "seg_3": "#EAB96C",
+      "seg_4": "#EAB96C",
+      "seg_5": "#CEA73B",
+      "seg_6": "#CEA73B",
+      "seg_7": "#CB1939",
+      "seg_8": "#CB1939",
+      "seg_9": "#CB1939",
+      "seg_10": "#323139",
+      "seg_11": "#F5B18A",
+      "seg_12": "#FFD9B2",
+      "seg_13": "#FFD9B2",
+      "seg_14": "#FFD9B2",
+      "seg_15": "#FFD9B2",
+      "seg_16": "#FFD9B2",
+      "seg_17": "#FFD9B2",
+      "seg_18": "#FFD9B2",
+      "seg_19": "#FE988C",
+      "seg_20": "#FE988C",
+      "seg_21": "#F2FF42",
+      "seg_22": "#5281DB"
+    }
+  },
+  {
+    "id": "popugai",
+    "title": "Попугай",
+    "emoji": "🦜",
+    "svgUrl": "assets/popugai_processed.svg",
+    "palette": [
+      {
+        "color": "#79CE00",
+        "answer": 21,
+        "expression": "3 × 7"
+      },
+      {
+        "color": "#3AAB80",
+        "answer": 24,
+        "expression": "3 × 8"
+      },
+      {
+        "color": "#016A32",
+        "answer": 36,
+        "expression": "6 × 6"
+      },
+      {
+        "color": "#FF680E",
+        "answer": 48,
+        "expression": "6 × 8"
+      },
+      {
+        "color": "#E1E5EE",
+        "answer": 49,
+        "expression": "7 × 7"
+      },
+      {
+        "color": "#FEAADE",
+        "answer": 64,
+        "expression": "8 × 8"
+      },
+      {
+        "color": "#B2C6E7",
+        "answer": 54,
+        "expression": "9 × 6"
+      },
+      {
+        "color": "#1050A8",
+        "answer": 42,
+        "expression": "6 × 7"
+      },
+      {
+        "color": "#6A8BC0",
+        "answer": 56,
+        "expression": "7 × 8"
+      },
+      {
+        "color": "#A8B8BC",
+        "answer": 72,
+        "expression": "8 × 9"
+      },
+      {
+        "color": "#5DCDCE",
+        "answer": 7,
+        "expression": "21 : 3"
+      },
+      {
+        "color": "#62910D",
+        "answer": 3,
+        "expression": "24 : 8"
+      },
+      {
+        "color": "#7ACD00",
+        "answer": 4,
+        "expression": "36 : 9"
+      }
+    ],
+    "colorMapping": {
+      "seg_1": "#79CE00",
+      "seg_2": "#79CE00",
+      "seg_3": "#3AAB80",
+      "seg_4": "#3AAB80",
+      "seg_5": "#016A32",
+      "seg_6": "#FF680E",
+      "seg_7": "#FF680E",
+      "seg_8": "#E1E5EE",
+      "seg_9": "#FEAADE",
+      "seg_10": "#B2C6E7",
+      "seg_11": "#1050A8",
+      "seg_12": "#6A8BC0",
+      "seg_13": "#A8B8BC",
+      "seg_14": "#5DCDCE",
+      "seg_15": "#62910D",
+      "seg_16": "#7ACD00"
+    },
+    "labelPositions": {
+      "seg_1": [
+        18.5,
+        9.5
+      ],
+      "seg_2": [
+        17.5,
+        14.5
+      ],
+      "seg_3": [
+        13.5,
+        10.5
+      ],
+      "seg_4": [
+        19.5,
+        10.5
+      ],
+      "seg_5": [
+        14.5,
+        11.5
+      ],
+      "seg_6": [
+        10.5,
+        14.5
+      ],
+      "seg_7": [
+        16.5,
+        23.5
+      ],
+      "seg_8": [
+        13.5,
+        17.5
+      ],
+      "seg_9": [
+        15.5,
+        15.5
+      ],
+      "seg_10": [
+        19.5,
+        16.5
+      ],
+      "seg_11": [
+        17.5,
+        19.5
+      ],
+      "seg_12": [
+        19.5,
+        18.5
+      ],
+      "seg_13": [
+        13.5,
+        20.5
+      ],
+      "seg_14": [
+        17.5,
+        18.5
+      ],
+      "seg_15": [
+        23.5,
+        21.5
+      ],
+      "seg_16": [
+        21.5,
+        22.5
+      ]
+    },
+    "unit": 1
+  }
+]

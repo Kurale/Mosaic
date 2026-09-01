@@ -1,0 +1,224 @@
+/* ===== Общие стили и типографика ===== */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #fff7e6;
+  --primary: #ff6b6b;
+  --primary-dark: #e05555;
+  --accent: #4ecdc4;
+  --shadow: 0 6px 0 rgba(0,0,0,.12);
+}
+
+body {
+  font-family: "Comic Sans MS", "Segoe UI", system-ui, sans-serif;
+  background: linear-gradient(160deg, #fff7e6 0%, #ffe8f0 50%, #e0f7fa 100%);
+  min-height: 100vh;
+  color: #333;
+}
+
+/* Переключение экранов меню/игры */
+.screen { display: none; padding: 24px; }
+.screen.active { display: block; animation: fadeIn .4s ease; }
+
+@keyframes fadeIn { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; } }
+
+/* ===== Главное меню ===== */
+.app-title { text-align: center; font-size: 2.4rem; color: var(--primary); text-shadow: 2px 2px 0 #ffd3d3; }
+.app-subtitle { text-align: center; margin: 8px 0 28px; font-size: 1.15rem; color: #777; }
+
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.level-card {
+  background: #fff;
+  border: none;
+  border-radius: 24px;
+  padding: 24px 16px;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  transition: transform .2s ease, box-shadow .2s ease;
+  text-align: center;
+  font-family: inherit;
+}
+.level-card:hover { transform: translateY(-6px) scale(1.03); box-shadow: 0 12px 20px rgba(0,0,0,.15); }
+.level-card:active { transform: scale(.97); }
+
+.level-card .card-avatar { width: 90px; height: 90px; margin: 0 auto 12px; object-fit: contain; }
+.level-card .card-avatar svg { width: 100%; height: 100%; }
+.level-card h3 { font-size: 1.2rem; color: var(--primary-dark); }
+
+/* ===== Экран раскраски ===== */
+.game-header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+.level-title { font-size: 1.5rem; color: var(--primary); flex: 1; }
+
+.progress-wrap { display: flex; align-items: center; gap: 10px; font-weight: bold; }
+.progress-bar {
+  width: 180px; height: 18px; background: #fff;
+  border-radius: 12px; overflow: hidden; box-shadow: inset 0 2px 4px rgba(0,0,0,.15);
+}
+#progress-fill {
+  height: 100%; width: 0%;
+  background: repeating-linear-gradient(45deg, #4ecdc4, #4ecdc4 10px, #45b7ae 10px, #45b7ae 20px);
+  transition: width .4s ease;
+}
+
+.game-layout {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+/* Контейнер SVG-картинки */
+.svg-container {
+  flex: 1 1 420px;
+  background: #fff;
+  border-radius: 24px;
+  padding: 16px;
+  box-shadow: var(--shadow);
+  display: flex;
+  justify-content: center;
+}
+/* Картинка вписывается в экран целиком: ограничена и шириной контейнера,
+   и высотой видимой области (с запасом на шапку), без прокрутки */
+.svg-container svg {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: calc(100vh - 210px);
+}
+
+/* Незакрашенные сегменты: белая заливка + полупрозрачный контур в 1 экранный пиксель */
+.svg-container .colorable { fill: #ffffff; stroke: rgba(0, 0, 0, 0.5); cursor: pointer; transition: fill .3s ease; }
+.svg-container .colorable:hover { fill: #f0f0f0; }
+/* Анимация заливки при верном ответе */
+.svg-container .colorable.colored { animation: popIn .45s ease; pointer-events: none; }
+/* Анимация «тряски» при ошибке */
+.svg-container .colorable.wrong { animation: shake .4s ease; fill: #ffcccc !important; }
+
+@keyframes popIn {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.06); }
+  100% { transform: scale(1); }
+}
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-6px); }
+  40% { transform: translateX(6px); }
+  60% { transform: translateX(-4px); }
+  80% { transform: translateX(4px); }
+}
+
+/* ===== Лэйблы-ответы на сегментах ===== */
+.answer-label {
+  pointer-events: none; /* лэйбл не перехватывает клики по сегменту */
+  font-family: "Comic Sans MS", "Segoe UI", sans-serif;
+  font-weight: bold;
+  fill: #333;
+  /* Белая «обводка» вокруг цифры, чтобы читалась на любом фоне */
+  paint-order: stroke;
+  stroke: #fff;
+  stroke-width: 4px;
+  stroke-linejoin: round;
+  transition: opacity .4s ease;
+}
+.answer-label.label-done { opacity: 0; }
+
+/* ===== Палитра ===== */
+.palette {
+  flex: 0 1 300px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px;
+}
+
+.palette-btn {
+  border: 4px solid #fff;
+  border-radius: 18px;
+  padding: 14px 8px;
+  font-family: inherit;
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  transition: transform .15s ease, outline .15s ease;
+  text-shadow: 1px 1px 2px rgba(0,0,0,.35);
+}
+.palette-btn:hover { transform: scale(1.06); }
+.palette-btn.active {
+  outline: 5px solid #333;
+  outline-offset: 3px;
+  transform: scale(1.1);
+  animation: pulse .8s ease infinite;
+}
+.palette-btn.disabled { opacity: .45; pointer-events: none; }
+
+@keyframes pulse {
+  0%, 100% { outline-color: #333; }
+  50% { outline-color: gold; }
+}
+
+/* ===== Кнопки ===== */
+.btn {
+  font-family: inherit;
+  font-size: 1.05rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 16px;
+  padding: 12px 22px;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  transition: transform .15s ease;
+  color: #fff;
+}
+.btn:hover { transform: translateY(-2px); }
+.btn:active { transform: translateY(2px); box-shadow: none; }
+.btn-back { background: #95a5a6; }
+.btn-primary { background: var(--primary); }
+.btn-secondary { background: var(--accent); }
+
+/* ===== Модальное окно ===== */
+.modal-overlay {
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,.5);
+  display: flex; align-items: center; justify-content: center;
+  z-index: 100;
+  animation: fadeIn .3s ease;
+}
+.modal-overlay.hidden { display: none; }
+
+.modal {
+  background: #fff;
+  border-radius: 28px;
+  padding: 36px 44px;
+  text-align: center;
+  box-shadow: 0 20px 50px rgba(0,0,0,.3);
+  animation: bounceIn .5s cubic-bezier(.34,1.56,.64,1);
+}
+.modal-emoji { font-size: 4rem; }
+.modal h3 { font-size: 2rem; color: var(--primary); margin: 10px 0 6px; }
+.modal p { color: #666; margin-bottom: 24px; }
+.modal-buttons { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+
+@keyframes bounceIn {
+  from { transform: scale(.3); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+/* Адаптивность для узких экранов */
+@media (max-width: 700px) {
+  .game-layout { flex-direction: column; }
+  .palette { width: 100%; flex-basis: auto; }
+}
