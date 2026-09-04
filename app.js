@@ -25,28 +25,28 @@ const FALLBACK_DATA = [
     "palette": [
       {
         "color": "#FDF2EC",
-        "answer": 3,
-        "expression": "24 : 8"
+        "answer": 6,
+        "expression": "2 × 3"
       },
       {
         "color": "#FFF25E",
-        "answer": 9,
-        "expression": "36 : 4"
+        "answer": 8,
+        "expression": "2 × 4"
       },
       {
         "color": "#BC8952",
-        "answer": 6,
-        "expression": "42 : 7"
+        "answer": 10,
+        "expression": "2 × 5"
       },
       {
         "color": "#FF8D4C",
-        "answer": 7,
-        "expression": "49 : 7"
+        "answer": 12,
+        "expression": "3 × 4"
       },
       {
         "color": "#888387",
-        "answer": 8,
-        "expression": "64 : 8"
+        "answer": 14,
+        "expression": "2 × 7"
       }
     ],
     "colorMapping": {
@@ -482,7 +482,7 @@ class ColoringApp {
 
   finishLevel() {
     // Небольшая пауза, чтобы анимация последней заливки успела проиграться
-    setTimeout(() => this.winModal.classList.remove('hidden'), 500);
+    setTimeout(() => this.winModal.classList.remove('hidden'), 1000);
   }
 
   hideModal() { this.winModal.classList.add('hidden'); }
